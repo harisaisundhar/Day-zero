@@ -36,6 +36,7 @@ The semester exercises are filed with the later projects by kind. Decks and assi
 - [corona-viz](applications/corona-viz) — COVID-19 React dashboard
 - [eye-amazon](applications/eye-amazon) — Amazon price-tracking Telegram bot
 - [football-transfers](applications/football-transfers) — Neo4j transfer queries
+- [foodlog](applications/foodlog) — photo-based calorie and macro logger
 - [frop](applications/frop) — Windows file-transfer app
 - [gsm-engine](applications/gsm-engine) — phone-spec search
 - [guess-my-peer](applications/guess-my-peer) — decision-tree guessing game
