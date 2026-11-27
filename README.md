@@ -6,6 +6,7 @@ The semester exercises are filed with the later projects by kind. Decks and assi
 
 ## Algorithms
 
+- [c-data-structures](algorithms/c-data-structures) — short C data-structure programs
 - [clang-cast](algorithms/clang-cast) — lex and yacc course compiler
 - [fuzzy-c-means](algorithms/fuzzy-c-means) — fuzzy inference and c-means
 - [genetic-pso](algorithms/genetic-pso) — genetic algorithm and particle swarm
@@ -25,10 +26,14 @@ The semester exercises are filed with the later projects by kind. Decks and assi
 - [data-preprocessing](data-science/data-preprocessing) — data preprocessing
 - [map-reduce](data-science/map-reduce) — Spark word count
 - [rain-risk-malaria](data-science/rain-risk-malaria) — climate and vector-disease study
+- [softmax-regression](data-science/softmax-regression) — multi-label softmax regression
+- [transformer-training](data-science/transformer-training) — transformer training assignment
 
 ## Applications
 
 - [address-book](applications/address-book) — Java servlet address book
+- [clone-mobile](applications/clone-mobile) — C++ phone simulation
+- [corona-viz](applications/corona-viz) — COVID-19 React dashboard
 - [football-transfers](applications/football-transfers) — Neo4j transfer queries
 - [frop](applications/frop) — Windows file-transfer app
 - [gsm-engine](applications/gsm-engine) — phone-spec search
