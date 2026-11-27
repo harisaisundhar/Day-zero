@@ -1,4 +1,4 @@
-# day-zero
+# Day-zero
 
 Grad and undergrad Projects collected into one repository and licensed under MIT. See [LICENSE](LICENSE).
 
