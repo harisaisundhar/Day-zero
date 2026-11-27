@@ -1,0 +1,88 @@
+// The code to be parsed
+
+class sum {
+	
+	private T sum ;
+	sum ( ) {
+		sum = 0 ;
+	}
+	public T add ( T var1 , T var2 ) ;
+
+}
+
+template <typename T>
+T Sum :: add ( T var1 , T var2 ) {
+	
+	try {
+		sum = var1 + var2 ;
+		throw sum ;
+	}
+	catch ( T sum ) {
+		cout << ExceptionHandling ;
+	}
+	return sum ;
+}
+
+int_main () {
+int x=50,y=1,dummy=21; 
+int x,a; x=2;
+int t=1, c=5, s=2;
+int p=2;
+char o;
+
+printf(x);
+
+x=p^10;
+k=8;
+y=9-8/2+1+6*5;
+
+printf(y);
+
+y=10;
+if (y) { 100 }
+
+if (2 > 1) {
+	if (1) { 200 }
+	else { 210 }
+} else { 110 }
+
+if (2 > 3) { 999 }
+
+else {
+	if (0) { 300 }
+	else { 310 }
+}
+
+if (y) { 999 }
+
+for ( x = 0 ; x <= 4; x ++ ) {
+	m;
+}
+// m is not initialized so buffer value
+
+for ( x = 0 ; x <= 4; x ++ ) {
+	k;
+}
+
+while(i<3) {
+	k; i++;
+}
+
+printf(a);
+
+3!;
+
+//if (y) { "error as string" }
+	 
+function oddeven1 ( );
+
+int function oddeven1 ( )
+	    { 200; }
+
+//int function oddeven1 ( )
+//	    { 199; }
+// Error as re declared
+
+
+
+}
