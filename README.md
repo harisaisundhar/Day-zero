@@ -34,6 +34,7 @@ The semester exercises are filed with the later projects by kind. Decks and assi
 - [address-book](applications/address-book) — Java servlet address book
 - [clone-mobile](applications/clone-mobile) — C++ phone simulation
 - [corona-viz](applications/corona-viz) — COVID-19 React dashboard
+- [eye-amazon](applications/eye-amazon) — Amazon price-tracking Telegram bot
 - [football-transfers](applications/football-transfers) — Neo4j transfer queries
 - [frop](applications/frop) — Windows file-transfer app
 - [gsm-engine](applications/gsm-engine) — phone-spec search
