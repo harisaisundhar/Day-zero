@@ -17,3 +17,5 @@ through social processes (e.g., human-vector contacts).
 
 - Data Visualization
 - Web page
+
+The eight large state climate CSVs are not in the current tree. They remain in the earlier commits. The small tables under `ML_model/` stay. `npm start` in `clr/` regenerates `src/tailwind.output.css`.

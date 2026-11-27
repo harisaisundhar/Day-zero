@@ -15,3 +15,5 @@ execution methods:-
 5)Enjoy the project and give a thumbs up if you like the project.
 
 *The graph model.png is the schema of the constructed DB, there's an example image which shows live demonstration of tranfer of griezman.
+
+`data/country.json` is not in the current tree. `data/leagues.json` stays. The removed file remains in the earlier commits. The load scripts still point at the original `Football-transfers-2k19` repository.

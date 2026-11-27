@@ -1,2 +1,13 @@
 .DS_Store
 node_modules/
+__pycache__/
+.ipynb_checkpoints/
+nbproject/private/
+build/
+dist/
+*.class
+a.out
+lex.yy.c
+*.tab.c
+*.tab.h
+tailwind.output.css

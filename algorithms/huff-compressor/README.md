@@ -8,3 +8,5 @@ In case of Zipping the file should be present in the same working directory and 
 To extract just put the zipped file name and the xtracted file will be retreived in the same physical directory, with a prefix name of ext.
 
 Refer tutorials to understand huffman algorithms.
+
+The demo video is not in the current tree. `media/h.jpeg` remains. The video is still in the earlier commits.
