@@ -1,0 +1,4 @@
+.vscode
+.DS_Store
+clr/node_modules
+clr/.gitignore
