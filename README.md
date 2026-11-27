@@ -1,8 +1,8 @@
 # day-zero
 
-Undergraduate projects from 2019–2022, collected into one repository and licensed under MIT. See [LICENSE](LICENSE).
+Grad and undergrad Projects collected into one repository and licensed under MIT. See [LICENSE](LICENSE).
 
-The semester exercises are filed with the later projects by kind. Decks and assignment PDFs stay. Large datasets, generated build output, and the Huffman demo video are out of the current tree; those blobs remain in the earlier commits.
+The semester exercises are filed with the later projects by kind. Decks and assignment PDFs stay. Large datasets, generated build output, and the Huffman demo video are out of the current tree.
 
 ## Algorithms
 
